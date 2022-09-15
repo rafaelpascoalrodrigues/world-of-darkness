@@ -1,0 +1,1 @@
+# Seita da Prosperidade Alcançada

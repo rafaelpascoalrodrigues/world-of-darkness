@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "5a142ea9bbb821e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a39b94d5147fc37",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lobisomem - No Coração da Wyrm/Seitas/Domínios da Rainha Fantasma.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1f60c54b84f114b",
+    "type": "split",
+    "children": [
+      {
+        "id": "19deec3e6678925f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e45de199715778",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "02fcd7f3c878a8c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efbc80b4918ff393",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14c5c657cece988e",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f9c712fa3d8451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bd46c6bc9c90a0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lobisomem - No Coração da Wyrm/Seitas/Domínios da Rainha Fantasma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca808376dffd8e00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lobisomem - No Coração da Wyrm/Seitas/Domínios da Rainha Fantasma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cdb065cad4b2fdca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c11747d126f6e137",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lobisomem - No Coração da Wyrm/Seitas/Domínios da Rainha Fantasma.md"
+              }
+            }
+          },
+          {
+            "id": "af47624051104633",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "af47624051104633",
+  "lastOpenFiles": [
+    "Lobisomem - No Coração da Wyrm/Linhagens na Corte de Leven.md",
+    "Lobisomem - No Coração da Wyrm/Seitas/Domínios da Rainha Fantasma.md",
+    "Lobisomem - No Coração da Wyrm/Parentes/Mairead.md",
+    "Lobisomem - No Coração da Wyrm/Garous/Blair Leven.md",
+    "Blair Leven.md",
+    "Lobisomem - No Coração da Wyrm/Garous/Alec Blaker.md",
+    "Lobisomem - No Coração da Wyrm/Garous/Cormac Leven.md",
+    "Lobisomem - No Coração da Wyrm/Garous/Bean Nighe.md",
+    "Lobisomem - No Coração da Wyrm/Parentes/Sem título 6.md",
+    "Lobisomem - No Coração da Wyrm/Garous/Lewis Blaker.md"
+  ]
+}
